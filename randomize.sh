@@ -1,1 +1,1 @@
-python randomizeItemDrops.py
+python randomItemDrops.py
