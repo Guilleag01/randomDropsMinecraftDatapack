@@ -1,2 +1,2 @@
-# randomDropsMinecraftDatapack
-A minecraft datapack that randomices the drops of blocks and mobs
+# Random Drops Minecraft Datapack
+A minecraft datapack that randomizes the drops of blocks and mobs
